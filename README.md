@@ -1,2 +1,3 @@
 # nsp-github-test
-Testing nodesecurity.io and GitHub PR integration.
+
+Testing <https://nodesecurity.io> and GitHub Pull Request Integration.
