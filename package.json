@@ -7,7 +7,7 @@
     "url": "https://github.com/pdehaan/nsp-github-test/issues"
   },
   "dependencies": {
-    "ws": "1.0.1"
+    "ws": "1.1.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/pdehaan/nsp-github-test#readme",
