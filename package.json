@@ -1,10 +1,23 @@
 {
   "name": "pdehaan",
+  "description": "Testing <https://nodesecurity.io> and GitHub Pull Request Integration.",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/nsp-github-test/issues"
+  },
+  "dependencies": {
+    "ws": "1.0.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/nsp-github-test#readme",
   "keywords": [],
   "license": "WTFPL",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/nsp-github-test.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
